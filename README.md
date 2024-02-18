@@ -6,19 +6,6 @@
 <br/><br/><br/>
 </h1>
 
-<div align="center"> 
-  <h2 align="center">📫  How to reach me 📫</h2>   
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-    <br/><br/><br/>
-</div>
 
 <div align="center">
 <h2 align="center">📫  How to reach me 📫</h2>                    
@@ -28,7 +15,7 @@
     <a href="https://hosseina.com" target="_blank" rel="noreferrer"><img src="https://hosseina.com/wp-content/uploads/2023/10/cropped-cropped-new-logo.png" width="40" height="40" /></a>
     <a href="https://www.linkedin.com/in/hossein-ahmadi-18530811a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
     <a href="https://t.me/hosseinaaa" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="32" height="32" /></a>
-    <a href="hossein.ahmadi.b@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail"  width="32" height="32" /></a>
+    <a href="="mailto:hossein.ahmadi.b@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail"  width="32" height="32" /></a>
  
 <br/><br/><br/>
 </div>
