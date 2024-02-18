@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,c,cpp,cs" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,docker,visualstudio,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=python,r,rust,tensorflow,django,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,rust,tensorflow,anaconda,django,flask,qt" /><br>
 </div>
 
 <br/><br/><br/>
