@@ -15,7 +15,7 @@
     <a href="https://hosseina.com" target="_blank" rel="noreferrer"><img src="https://hosseina.com/wp-content/uploads/2023/10/cropped-cropped-new-logo.png" width="40" height="40" /></a>
     <a href="https://www.linkedin.com/in/hossein-ahmadi-18530811a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
     <a href="https://t.me/hosseinaaa" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="32" height="32" /></a>
-    <a href="="mailto:hossein.ahmadi.b@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail"  width="32" height="32" /></a>
+    <a href="mailto:hossein.ahmadi.b@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail"  width="32" height="32" /></a>
  
 <br/><br/><br/>
 </div>
