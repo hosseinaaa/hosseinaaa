@@ -41,16 +41,6 @@
 
 </div>
 
----
-
-## ⚡ GitHub Stats
-
-<div align="center">
-  <img width="400" src="https://github-readme-streak-stats.vercel.app/?user=hosseinaaa&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=hosseinaaa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinaaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</div>
 
 ---
 
